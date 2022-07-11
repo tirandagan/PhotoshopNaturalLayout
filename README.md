@@ -49,9 +49,10 @@ Enter the desired dimensions for the sign you are creating and click the "Start"
       >obviously the path will differ for you, depending on the version on Photoshop you have
 
 2. Restart Photoshop
-
 3. Now you can select the script from File -> Scripts -> Natural Layout
 
+### Here is what the menu will look like when installed correctly:
+  ![Photoshop Script](doc/Installed_menu.png)
 # Credits
 
 Tiran Dagan, [Board To Home](https://www.boardtohome.com)
