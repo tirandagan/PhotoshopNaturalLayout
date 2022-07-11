@@ -33,8 +33,9 @@ Enter the desired dimensions for the sign you are creating and click the "Start"
 
 ### To run this script manually:
 
-  File -> Scripts -> Browse...
-  [and select this file from the location you downloaded it to]
+Download the entire repository from Github or just the single script file  **[Natural Layout.jsx](src/Natural%20Layout.jsx)** to your computer and open the script directly from within Photoshop: **File -> Scripts -> Browse...**
+  
+  ![Single Launch](doc/Single_Launch.gif)
 
 ### To add the script to Photoshop:
 
